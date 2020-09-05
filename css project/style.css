@@ -1,0 +1,77 @@
+#main-header {
+  background-color: black;
+}
+
+#main h5 {
+  display: inline-block;
+  margin-left: 20px;
+}
+#main img {
+  margin-top: 6px;
+  margin-left: 6px;
+}
+a {
+  text-decoration: none;
+  color: grey;
+}
+a:hover {
+  color: rgb(219, 103, 8);
+}
+#here {
+  margin-left: 880px;
+}
+#main-nav {
+  background-image: url(https://wallpaperaccess.com/full/668673.jpg);
+  background-position: center;
+  height: 900px;
+  display: flex;
+  background-size: cover;
+  background-attachment: unset;
+  background-repeat: no-repeat;
+}
+.button {
+  background-color: rgb(148, 148, 148);
+  position: fixed;
+  bottom: 95%;
+  place-items: right;
+}
+.button:hover {
+  color: white;
+}
+.button1 {
+  background-color: rgb(148, 148, 148);
+  position: fixed;
+  top: 95%;
+}
+.button1:hover {
+  color: white;
+}
+.vids h1 {
+  margin-left: 500px;
+  margin-top: 400px;
+  color: rgb(255, 251, 251);
+}
+.vids video {
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.main-section ul {
+  list-style-type: disc;
+}
+
+.main-body {
+  background-image: url(./images/starring.png);
+}
+.para {
+  color: cornsilk;
+}
+.headings {
+  color: aliceblue;
+}
+#main-footer {
+  background-color: black;
+  color: blanchedalmond;
+  text-align: center;
+}
